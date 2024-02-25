@@ -23,6 +23,12 @@
   </div>
 </template>
 
+<script setup>
+useHead({
+  meta: [{ name: 'robots', content: 'noindex' }],
+})
+</script>
+
 <style lang="pcss">
 @import '~/assets/styles/reset.css';
 @import '~/assets/styles/tokens.css';
