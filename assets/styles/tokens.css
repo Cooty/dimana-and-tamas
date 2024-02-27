@@ -1,5 +1,6 @@
 :root {
   /* Colors */
+  --color-white: #fff;
   --color-grey-0: #242424;
   --color-grey-1: #57585a;
   --color-grey-2: #a0a09f;
@@ -21,7 +22,11 @@
   /* Sizes */
   --gutter: 16px;
   --container-width: 860px;
+  --header-height: 64px;
+  /* Z Index */
+  --z-top: 30;
+  --z-middle: 20;
+  --z-heigh: 10;
+  --z-low: 1;
+  --z-bottom: 0;
 }
-
-@custom-media --gte-tablet (min-width: 768px);
-@custom-media --gte-desktop (min-width: 1024px);

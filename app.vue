@@ -1,19 +1,15 @@
 <template>
-  <div>
-    <h1>{{ $t('dimana') }} & {{ $t('tamas') }}</h1>
-    <form>
-      <select v-model="locale" :value="locale">
-        <option value="en">en</option>
-        <option value="bg">bg</option>
-        <option value="hu">hu</option>
-      </select>
-    </form>
-  </div>
+  <app-layout>
+    <nuxt-page />
+  </app-layout>
 </template>
 
 <script setup>
 const { locale } = useI18n()
 useHead({
+  htmlAttrs: () => ({
+    lang: locale,
+  }),
   meta: [{ name: 'robots', content: 'noindex' }],
 })
 </script>
@@ -32,7 +28,7 @@ useHead({
 
 body {
   color: var(--color-grey-0);
-  background: #fff url('~/assets/images/so-white.png') repeat 0 0;
+  background: var(--color-white) url('~/assets/images/so-white.png') repeat 0 0;
 }
 
 body,
@@ -61,5 +57,13 @@ h5,
 h6,
 .typo-header-font {
   font-family: var(--header-font);
+}
+
+* {
+  &,
+  &:after,
+  &:before {
+    box-sizing: border-box;
+  }
 }
 </style>

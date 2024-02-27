@@ -5,8 +5,6 @@ export default defineNuxtConfig({
     plugins: {
       // https://www.npmjs.com/package/postcss-nested
       'postcss-nested': {},
-      // https://www.npmjs.com/package/postcss-custom-media
-      'postcss-custom-media': {},
     },
   },
   modules: ['@nuxtjs/google-fonts', '@nuxtjs/i18n'],
