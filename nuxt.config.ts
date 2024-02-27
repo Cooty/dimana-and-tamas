@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       'postcss-custom-media': {},
     },
   },
-  modules: ['@nuxtjs/google-fonts'],
+  modules: ['@nuxtjs/google-fonts', '@nuxtjs/i18n'],
   // https://google-fonts.nuxtjs.org/
   googleFonts: {
     families: {
@@ -20,5 +20,8 @@ export default defineNuxtConfig({
     },
     download: true,
     base64: true,
+  },
+  i18n: {
+    vueI18n: './i18n.config.ts',
   },
 })

@@ -1,29 +1,18 @@
 <template>
   <div>
-    <h1>Dimana & Tamás</h1>
-    <h1>Димана & Тамаш</h1>
-
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, non
-      voluptate blanditiis in nobis hic perferendis repudiandae pariatur eaque
-      distinctio exercitationem quod quam odio perspiciatis! Adipisci, ipsum.
-      Cum, praesentium sequi.
-    </p>
-
-    <p>
-      Лорем ипсум долор сит амет, но тале агам ерипуит вих, те порро алияуид
-      пер. Хабео санцтус сусципиантур ид меа, яуалисяуе делицатиссими ан вим,
-      меи риденс неморе еффициенди ад. Иус латине епицуреи те, те про еррем
-      татион дицерет. Яуи ут магна дебет мнесарчум.
-    </p>
-    <em>italic</em>
-    <em>магна</em>
-    <strong>bold</strong>
-    <strong>дебет</strong>
+    <h1>{{ $t('dimana') }} & {{ $t('tamas') }}</h1>
+    <form>
+      <select v-model="locale" :value="locale">
+        <option value="en">en</option>
+        <option value="bg">bg</option>
+        <option value="hu">hu</option>
+      </select>
+    </form>
   </div>
 </template>
 
 <script setup>
+const { locale } = useI18n()
 useHead({
   meta: [{ name: 'robots', content: 'noindex' }],
 })
