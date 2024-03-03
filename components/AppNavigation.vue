@@ -1,14 +1,64 @@
 <template>
   <header id="navigation" class="navigation">
     <wrapper>
-      <nav>
-        <nuxt-link to="/">RSVP</nuxt-link>
-        <nuxt-link to="/the-wedding">The Wedding</nuxt-link>
-        <nuxt-link to="/when-in-bulgaria">When in Bulgaria</nuxt-link>
-      </nav>
+      <div class="navigation__language-selector">
+        <label>
+          <img :src="flag" />
+          <select @change="switchLanguage">
+            <option value="en" :selected="locale === 'en'">EN</option>
+            <option value="hu" :selected="locale === 'hu'">HU</option>
+            <option value="bg" :selected="locale === 'bg'">БГ</option>
+          </select>
+        </label>
+      </div>
+      <div class="navigation__scroller">
+        <nav>
+          <nuxt-link :to="localePath('/')">{{ $t('nav.rsvp') }}</nuxt-link>
+          <nuxt-link :to="localePath('/the-wedding')">{{
+            $t('nav.wedding')
+          }}</nuxt-link>
+          <nuxt-link :to="localePath('/when-in-bulgaria')">{{
+            $t('nav.bulgaria')
+          }}</nuxt-link>
+        </nav>
+      </div>
     </wrapper>
   </header>
 </template>
+
+<script setup>
+import huFlag from '../assets/images/flags/hu.svg'
+import enFlag from '../assets/images/flags/en.svg'
+import bgFlag from '../assets/images/flags/bg.svg'
+
+const localePath = useLocalePath()
+const switchLocalePath = useSwitchLocalePath()
+const { locale } = useI18n()
+const router = useRouter()
+
+console.log(locale.value)
+
+const flag = ref(enFlag)
+function setFlag() {
+  if (locale.value === 'hu') {
+    flag.value = huFlag
+  } else if (locale.value === 'bg') {
+    flag.value = bgFlag
+  } else if (locale.value === 'en') {
+    flag.value = enFlag
+  }
+}
+
+onMounted(() => {
+  setFlag()
+})
+
+function switchLanguage(e) {
+  router.push(switchLocalePath(e.target.value)).then(() => {
+    setFlag()
+  })
+}
+</script>
 
 <style lang="scss" scoped>
 .navigation {
@@ -29,6 +79,8 @@
   > * {
     height: 100%;
     display: flex;
+    flex-wrap: nowrap;
+    gap: 24px;
     align-items: center;
     background-color: var(--color-white);
     border-top: var(--border-value);
@@ -49,13 +101,66 @@
     }
   }
 
+  &__scroller {
+    flex: 1;
+    display: flex;
+    overflow-y: auto;
+
+    @media (min-width: 600px) {
+      justify-content: center;
+    }
+  }
+
   nav {
     display: flex;
     align-items: center;
-    gap: calc(var(--gutter) / 2);
+    gap: var(--gutter);
 
     a {
-      color: var(--color-sea-blue-1);
+      color: var(--color-sea-blue-0);
+      font-weight: 500;
+      text-decoration: none;
+      transition: all ease-in-out 0.3s;
+      white-space: nowrap;
+      display: block;
+      padding: 4px;
+      border-radius: 4px;
+
+      &:hover,
+      &:focus {
+        &:not(.router-link-active) {
+          background: var(--color-grey-5);
+        }
+      }
+
+      &.router-link-active {
+        background-color: var(--color-sea-blue-0);
+        color: var(--color-white);
+      }
+    }
+  }
+
+  &__language-selector {
+    flex-grow: 0;
+    padding-right: 8px;
+    border-right: 1px solid var(--color-grey-5);
+
+    > label {
+      display: flex;
+      gap: 4px;
+
+      img {
+        display: block;
+        width: 24px;
+        border-radius: 100%;
+        border: 1px solid var(--color-grey-5);
+      }
+
+      select {
+        appearance: none;
+        border: none;
+        background: none;
+      }
     }
   }
 }

@@ -20,6 +20,8 @@ export default defineNuxtConfig({
     base64: true,
   },
   i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'bg', 'hu'],
     vueI18n: './i18n.config.ts',
   },
 })

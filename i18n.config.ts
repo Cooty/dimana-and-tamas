@@ -4,7 +4,7 @@ import hu from './translations/hu.json'
 
 export default defineI18nConfig(() => ({
   legacy: false,
-  locale: 'en',
+  strategy: 'prefix_except_default',
   messages: {
     en,
     bg,
