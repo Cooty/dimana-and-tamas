@@ -17,6 +17,7 @@ useHead({
 <style lang="pcss">
 @import '~/assets/styles/reset.css';
 @import '~/assets/styles/tokens.css';
+@import '~/assets/styles/global.css';
 
 @font-face {
     font-family: 'Good Vibes';

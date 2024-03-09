@@ -29,4 +29,6 @@
   --z-heigh: 10;
   --z-low: 1;
   --z-bottom: 0;
+  /* Large shadow */
+  --shadow-float: 0 1rem 70px rgba(0, 0, 0, 0.2);
 }

@@ -36,8 +36,6 @@ const switchLocalePath = useSwitchLocalePath()
 const { locale } = useI18n()
 const router = useRouter()
 
-console.log(locale.value)
-
 const flag = ref(enFlag)
 function setFlag() {
   if (locale.value === 'hu') {

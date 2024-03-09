@@ -1,7 +1,14 @@
 {
   "dimana": "Dimana",
-  "tamas": "Tamas",
+  "tamas": "Tamás",
+  "and": "&",
+  "invite-you": "invite you to their wedding!",
+  "date": "September 7th 2024",
+  "time": "at 17:00",
+  "venue": "St. Anastasia Island Burgas, Bulgaria",
+  "cta.rsvp": "RSVP",
   "nav.rsvp": "RSVP",
   "nav.wedding": "The Wedding",
-  "nav.bulgaria": "When in Bulgaria"
+  "nav.bulgaria": "When in Bulgaria",
+  "name-of-the-island": "Saint Anastasia Island"
 }
