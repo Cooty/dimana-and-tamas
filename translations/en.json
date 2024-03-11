@@ -19,5 +19,11 @@
   "venue.intro-2-link": "Maritime Station in Burgas",
   "venue.intro-2-link-url": "https://maps.app.goo.gl/Q8S6ZhTkGJ3Em2S28",
   "venue.intro-3": "We'll offer multiple return trips to the shore for your convenience.",
-  "page-title": "Dimana and Tamás's wedding"
+  "page-title": "Dimana and Tamás's wedding",
+  "parking-title": "Parking",
+  "parking-info-1": "The following parking places are the closest to the ferry departure point, Maritime Station Burgas: {parking1}, {parking2}.",
+  "parking-1-name": "Parking Magazia",
+  "parking-2-name": "Parking Central Station",
+  "parking-info-2": "Please bear in mind that the 6th of September is a national holiday in Bulgaria. Additionally, the 7th and 8th are weekend days, so lighter rules for parking in the city apply. For more information about parking guidelines in Burgas, you can visit: {parkingWebsite}",
+  "parking-website-link-label": "this website"
 }

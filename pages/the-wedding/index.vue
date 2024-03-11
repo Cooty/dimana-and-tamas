@@ -4,6 +4,7 @@
       <ui-card>
         <ui-section-header>{{ $t('section.venue') }}</ui-section-header>
         <wedding-intro />
+        <wedding-parking />
         <wedding-map />
       </ui-card>
     </ui-section>

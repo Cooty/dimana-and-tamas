@@ -12,7 +12,7 @@
           v-for="(m, index) in markers"
           :position="m.position"
         ></GMapMarker>
-        <GMapPolyline :path="path" editable="false" ref="polyline" />
+        <GMapPolyline :path="path" :editable="false" ref="polyline" />
       </GMapMap>
     </ui-aspect-ratio-box>
   </div>
@@ -45,7 +45,7 @@ const markers = [
 <style lang="scss" scoped>
 .map-container {
   overflow: hidden;
-  margin: calc(var(--gutter) * 2) calc(var(--box-padding) * -1)
+  margin: calc(var(--gutter) * 3) calc(var(--box-padding) * -1)
     calc(var(--box-padding) * -1) calc(var(--box-padding) * -1);
   border-bottom-left-radius: var(--border-radius);
   border-bottom-right-radius: var(--border-radius);
