@@ -13,6 +13,10 @@ import islandBig from '../assets/images/island-big.png'
 </script>
 
 <style lang="scss" scoped>
+footer {
+  padding-top: 5svh;
+}
+
 picture > img {
   width: 100%;
   height: auto;

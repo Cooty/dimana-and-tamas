@@ -23,6 +23,11 @@
   --gutter: 16px;
   --container-width: 860px;
   --header-height: 64px;
+  --box-padding: 0.8rem;
+  --border-radius: 20px;
+  @media screen and (min-width: 1024px) {
+    --box-padding: 1.5rem;
+  }
   /* Z Index */
   --z-top: 30;
   --z-middle: 20;
@@ -31,4 +36,6 @@
   --z-bottom: 0;
   /* Large shadow */
   --shadow-float: 0 1rem 70px rgba(0, 0, 0, 0.2);
+  --middle-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  --small-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

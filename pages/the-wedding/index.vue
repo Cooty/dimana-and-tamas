@@ -1,7 +1,19 @@
 <template>
-  <h1>The Wedding</h1>
+  <div>
+    <ui-section id="venue">
+      <ui-card>
+        <ui-section-header>{{ $t('section.venue') }}</ui-section-header>
+        <wedding-intro />
+        <wedding-map />
+      </ui-card>
+    </ui-section>
+  </div>
 </template>
 
-<script setup></script>
+<script setup>
+const { t } = useI18n()
 
-<style lang="pcss" scoped></style>
+useHead({
+  title: t('nav.wedding'),
+})
+</script>

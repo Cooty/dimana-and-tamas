@@ -10,5 +10,14 @@
   "nav.rsvp": "RSVP",
   "nav.wedding": "The Wedding",
   "nav.bulgaria": "When in Bulgaria",
-  "name-of-the-island": "Saint Anastasia Island"
+  "name-of-the-island": "Saint Anastasia Island",
+  "section.venue": "The Venue",
+  "venue.intro-1": "Our wedding will take place on {island} located in the Bay of Burgas.",
+  "venue.intro-1-island-name": "Saint Anastasia Island",
+  "venue.island-link": "https://anastasia-island.com/index.php?lid=2",
+  "venue.intro-2": "A ferry for our guests departs at {time} from the {link}. The ride will take approximately 30 minutes. Please be on time!",
+  "venue.intro-2-link": "Maritime Station in Burgas",
+  "venue.intro-2-link-url": "https://maps.app.goo.gl/Q8S6ZhTkGJ3Em2S28",
+  "venue.intro-3": "We'll offer multiple return trips to the shore for your convenience.",
+  "page-title": "Dimana and Tamás's wedding"
 }

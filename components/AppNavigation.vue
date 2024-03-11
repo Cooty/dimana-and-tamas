@@ -1,13 +1,20 @@
 <template>
   <header id="navigation" class="navigation">
-    <wrapper>
+    <ui-wrapper>
       <div class="navigation__language-selector">
         <label>
           <img :src="flag" />
+          <span>{{ languageLabels[locale] }}</span>
           <select @change="switchLanguage">
-            <option value="en" :selected="locale === 'en'">EN</option>
-            <option value="hu" :selected="locale === 'hu'">HU</option>
-            <option value="bg" :selected="locale === 'bg'">БГ</option>
+            <option value="en" :selected="locale === 'en'">
+              {{ languageLabels.en }}
+            </option>
+            <option value="hu" :selected="locale === 'hu'">
+              {{ languageLabels.hu }}
+            </option>
+            <option value="bg" :selected="locale === 'bg'">
+              {{ languageLabels.bg }}
+            </option>
           </select>
         </label>
       </div>
@@ -22,7 +29,7 @@
           }}</nuxt-link>
         </nav>
       </div>
-    </wrapper>
+    </ui-wrapper>
   </header>
 </template>
 
@@ -47,6 +54,12 @@ function setFlag() {
   }
 }
 
+const languageLabels = {
+  en: 'EN',
+  bg: 'БГ',
+  hu: 'HU',
+}
+
 onMounted(() => {
   setFlag()
 })
@@ -61,7 +74,6 @@ function switchLanguage(e) {
 <style lang="scss" scoped>
 .navigation {
   --border-value: 1px solid var(--color-grey-4);
-  --border-radius-value: 20px;
   z-index: var(--z-top);
   position: fixed;
   bottom: 0;
@@ -85,8 +97,8 @@ function switchLanguage(e) {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
 
     @media (min-width: 861px) {
-      border-top-right-radius: var(--border-radius-value);
-      border-top-left-radius: var(--border-radius-value);
+      border-top-right-radius: var(--border-radius);
+      border-top-left-radius: var(--border-radius);
     }
 
     @media (min-width: 1024px) {
@@ -94,8 +106,8 @@ function switchLanguage(e) {
       border-bottom: var(--border-value);
       border-top-right-radius: 0;
       border-top-left-radius: 0;
-      border-bottom-right-radius: var(--border-radius-value);
-      border-bottom-left-radius: var(--border-radius-value);
+      border-bottom-right-radius: var(--border-radius);
+      border-bottom-left-radius: var(--border-radius);
     }
   }
 
@@ -121,7 +133,7 @@ function switchLanguage(e) {
       transition: all ease-in-out 0.3s;
       white-space: nowrap;
       display: block;
-      padding: 4px;
+      padding: 8px;
       border-radius: 4px;
 
       &:hover,
@@ -144,8 +156,10 @@ function switchLanguage(e) {
     border-right: 1px solid var(--color-grey-5);
 
     > label {
+      position: relative;
       display: flex;
       gap: 4px;
+      align-items: center;
 
       img {
         display: block;
@@ -154,10 +168,21 @@ function switchLanguage(e) {
         border: 1px solid var(--color-grey-5);
       }
 
+      span {
+        font-size: 0.8rem;
+        font-weight: 500;
+      }
+
       select {
         appearance: none;
         border: none;
         background: none;
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
       }
     }
   }
