@@ -9,7 +9,13 @@
   "cta.rsvp": "Regisztrálok",
   "nav.rsvp": "Regisztráció",
   "nav.wedding": "Az esküvő",
-  "nav.bulgaria": "Látnivalók",
+  "nav.bulgaria": "Tudnivalók",
   "section.venue": "A helyszín",
-  "page-title": "Dimana és Tamás esküvője"
+  "page-title": "Dimana és Tamás esküvője",
+  "dress-code.title": "Mit vegyek fel?",
+  "gift.title": "Mit vigyek ajándékba?",
+  "contact.title": "Kapcsolat",
+  "contact.text": "Ha kérdésed van írj erre a címre:",
+  "arriving-burgas.title": "Hogy jutok el Burgaszba?",
+  "hotels.title": "Szálláslehetőségek"
 }

@@ -16,7 +16,7 @@ export default defineNuxtConfig({
       'postcss-nested': {},
     },
   },
-  modules: ['@nuxtjs/google-fonts', '@nuxtjs/i18n'],
+  modules: ['@nuxtjs/google-fonts', '@nuxtjs/i18n', '@nuxt/content'],
   // https://google-fonts.nuxtjs.org/
   googleFonts: {
     families: {

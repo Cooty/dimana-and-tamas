@@ -1,6 +1,8 @@
 <template>
   <ui-sub-section>
-    <ui-sub-section-header>{{ $t('parking-title') }}</ui-sub-section-header>
+    <ui-sub-section-header id="parking">{{
+      $t('parking-title')
+    }}</ui-sub-section-header>
     <ui-body-text>
       <i18n-t tag="p" keypath="parking-info-1">
         <template #parking1>
