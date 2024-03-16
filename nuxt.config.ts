@@ -22,6 +22,9 @@ export default defineNuxtConfig({
     markdown: {
       anchorLinks: false,
     },
+    experimental: {
+      clientDb: true,
+    },
   },
   // https://google-fonts.nuxtjs.org/
   googleFonts: {

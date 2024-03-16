@@ -25,7 +25,7 @@ Make a reservation directly via e-mail, phone or <a href="https://marinaburgas.b
 - The arrangement is made for accommodation during the specified period _September 7-8th 2024_.
 - The offer is valid until _August 15th, 2024_.
 - Prices include **breakfast**, tourist tax and insurance;
-- There is an additional charge for the use of the private parking lot <a href="https://maps.app.goo.gl/e8zex5bBRy9CWPMe7" target="_blank">"Magaziya 1"</a>, which is located right next to the hotel and costs [_BGN 10/24 hours_](<(#parking)>).
+- There is an additional charge for the use of the private parking lot <a href="https://maps.app.goo.gl/e8zex5bBRy9CWPMe7" target="_blank">"Magaziya 1"</a>, which is located right next to the hotel and costs [_BGN 10/24 hours_](#parking).
 
 ### Hotel Bulair
 
