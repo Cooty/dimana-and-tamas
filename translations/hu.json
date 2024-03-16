@@ -17,5 +17,21 @@
   "contact.title": "Kapcsolat",
   "contact.text": "Ha kérdésed van írj erre a címre:",
   "arriving-burgas.title": "Hogy jutok el Burgaszba?",
-  "hotels.title": "Szálláslehetőségek"
+  "hotels.title": "Szálláslehetőségek",
+  "taxi.title": "Taxizás Burgaszban",
+  "arrival.title": "Mikor érkezek?",
+  "public-transport.title": "Tömegközlekedés",
+  "activities.title": "Látnivalók",
+  "parking.title": "Parkolás",
+  "bikes.title": "Biciklibérlés",
+  "restaurants.title": "Étel, ital",
+  "parking-title": "Parkolás a komp mellett",
+  "section.programme": "Program",
+  "programme.point-1": "{time} — Komp a szigetre",
+  "programme.point-2": "{time} — Ceremónia",
+  "programme.point-3": "{time} — Állófogadás",
+  "programme.point-4": "{time} — Vacsora",
+  "programme.point-5": "{time} — Buli",
+  "programme.point-6": "{time} — Első komp vissza",
+  "programme.point-7": "{time} — Utolsó komp vissza"
 }

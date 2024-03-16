@@ -17,6 +17,12 @@ export default defineNuxtConfig({
     },
   },
   modules: ['@nuxtjs/google-fonts', '@nuxtjs/i18n', '@nuxt/content'],
+  content: {
+    contentHead: false,
+    markdown: {
+      anchorLinks: false,
+    },
+  },
   // https://google-fonts.nuxtjs.org/
   googleFonts: {
     families: {

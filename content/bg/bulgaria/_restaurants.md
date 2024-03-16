@@ -1,0 +1,15 @@
+Бургас предлага разнообразна кулинарна сцена с ресторанти, отговарящи на различни вкусове и бюджети.
+
+Улица "Богориди" е гореща точка със заведения, предлагаща множество възможности за избор, които обещават чудесно съотношение между цена и качество. Сред забележителните места са <a target="_blank" href="https://happy.bg/restaurants/5/happy-tsentar-burgas">Happy Bar and Grill</a> с няколко локации, <a target="_blank" href="https://restaurantgramophone.com/">Gramophone</a>, <a href="https://www.tripadvisor.com/Restaurant_Review-g635766-d14826710-Reviews-Cardamon-Burgas_Burgas_Province.html" target="_blank">Cardamon</a> и <a href="https://avocado-bg.com/" target="_blank">Avocado</a>.
+
+Други препоръки в центъра включват <a href="https://ti-bar.com/bg/" target="_blank">Ti Bar & Kitchen</a>, както и <a href="https://www.facebook.com/artfishfoodscience/" target="_blank">Art, Fishfood & Science - Glarus</a> и <a href="https://www.pizza-romance.com/" target="_blank">Romance</a> с няколко филиала.
+
+За гурме изживяване <a href="https://maisonspremium.bg/burgas/" target="_blank">Maisons Premium</a> се отличава със своя главен готвач и впечатляващо меню, напомнящо на кулинарно риалити шоу.
+
+Освен това <a href="https://www.facebook.com/restaurant.zlatnaribka/?locale=bg_BG" target="_blank">Златна рибка</a>, <a href="https://www.neptunburgas.com/bg/" target="_blank">Нептун</a> или <a href="https://dalianaburgas.com/bg/restaurant/dalyan-razstoyanie" target="_blank">Даляна</a> на Морска гара предлагат вкусни морски дарове, някои от тях на фона на морето.
+
+За торта и кафе препоръчваме <a href="https://www.tripadvisor.com/Restaurant_Review-g635766-d25004481-Reviews-Aristo_Coffee_Kitchen-Burgas_Burgas_Province.html">Aristo</a> _(подходящ за кучета)_, <a href="https://www.facebook.com/caramelcoffeshop/" target="_blank">Caramel Coffee Shop</a> или сладкарница <a href="https://shop.veriga-roza.com/index.php?controller=stores" target="_blank">Роза</a> на улица Богориди. За брънч предлагаме <a href="https://www.facebook.com/ButlersCoffeeKitchen/" target="_blank">Buttlers</a>. За здравословни опции - <a href="https://www.facebook.com/popeyeburgas/" target="_blank">Popeye</a> - Fresh, Smooties, Tortillas и <a href="https://manjarikitchen.com/">Mandjari</a> (особено за веган тортите). Ако ви се хапва пица, отидете в <a href="https://www.facebook.com/PizzaShop.bg/?locale=bg_BG">Pizza Shop</a> за най-добрата пица на парче в Бургас.
+
+За напитки бар <a href="https://www.facebook.com/barbossaburgas/" target="_blank">Барбоса</a> предлага изискани коктейли и разнообразен твърд алкохол от висок клас, а <a href="https://www.facebook.com/papacraftbeer/" target="_blank">Papa Beer</a> е идеален за любителите на крафт бирата. За уютна пъб обстановка, <a href="https://www.tripadvisor.com/Restaurant_Review-g635766-d10279789-Reviews-Mezetto_Beer_Wine-Burgas_Burgas_Province.html" target="_blank">Mezetto</a> е мястото.
+
+Това са нашите фаворити, но моля, не се колебайте да изследвате сами и да споделите с нас вашите предложения. Винаги се радваме да опитаме и нови места!

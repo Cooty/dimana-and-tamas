@@ -1,0 +1,7 @@
+For our guests traveling from abroad, the best way to arrive in Burgas is by flying into Burgas Airport (BOJ), which offers direct flights from various international destinations. The most economical airlines that fly to Burgas International Airport are <a href="https://wizzair.com/en-gb/" target="_blank">WizzAir</a> and <a href="https://ryanair.com/" target="_blank">Ryanair</a>. Guests flying in from Berlin are recommended to check <a href="https://sundair.com/booking/#/" target="_blank">Sundair</a>.
+
+From Burgas Airport, reaching the city center is easy via [taxi](#taxi) or public transportation - bus line **No15** from the roundabout at the airport park entrance.
+
+A taxi will take around _15 minutes_ to get to the city center and will cost approximately _€15 (BGN 30)_. The bus fare is _around 2 BGN_ you can buy a ticket from the driver (cash only) or you can buy a ticket in the Burgas Bus app (<a target="_blank" href="https://apps.apple.com/us/app/burgas/id1527094752">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.modeshift.burgas" target="_blank">Android</a>).
+
+Alternatively, guests can fly into **Varna or Sofia International Airports** and then travel to Burgas by train or bus. For bus services and to book tickets in advance, please visit Union Ivkoni's website at <a target="_blank" href="https://union-ivkoni.com/en">union-ivkoni.com</a>, and for train services, visit <a target="_blank" href="https://www.bdz.bg/en">BDZ.bg</a>.

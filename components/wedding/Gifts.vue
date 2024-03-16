@@ -1,9 +1,5 @@
 <template>
   <ui-body-text>
-    <i18n-t tag="p" keypath="gift.text">
-      <template #highlight1
-        ><strong>{{ $t('gift.text-highlight-1') }}</strong></template
-      >
-    </i18n-t>
+    <content-doc :path="`${$i18n.locale}/wedding/_gift`" />
   </ui-body-text>
 </template>

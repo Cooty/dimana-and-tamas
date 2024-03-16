@@ -2,7 +2,6 @@
   <div>
     <ui-section id="venue">
       <ui-card>
-        <ui-section-header>{{ $t('section.venue') }}</ui-section-header>
         <wedding-intro />
         <wedding-parking />
         <wedding-map />
