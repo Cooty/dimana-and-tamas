@@ -22,7 +22,9 @@
       </div>
     </div>
     <div class="hero__bottom">
-      <ui-button to="#form">{{ $t('cta.rsvp') }}</ui-button>
+      <ui-button :to="localePath('/registration')">{{
+        $t('cta.rsvp')
+      }}</ui-button>
     </div>
   </header>
 </template>

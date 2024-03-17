@@ -1,7 +1,7 @@
 <template>
-  <a :href="props.to" class="button">
+  <nuxt-link :to="props.to" class="button">
     <slot />
-  </a>
+  </nuxt-link>
 </template>
 
 <script setup>

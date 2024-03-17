@@ -20,7 +20,9 @@
       </div>
       <div class="navigation__scroller">
         <nav>
-          <nuxt-link :to="localePath('/')">{{ $t('nav.rsvp') }}</nuxt-link>
+          <nuxt-link :to="localePath('/registration')">{{
+            $t('nav.rsvp')
+          }}</nuxt-link>
           <nuxt-link :to="localePath('/the-wedding')">{{
             $t('nav.wedding')
           }}</nuxt-link>
