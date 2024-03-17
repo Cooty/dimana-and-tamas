@@ -1,3 +1,6 @@
 <template>
-  <home-hero />
+  <div>
+    <home-hero />
+    <home-form />
+  </div>
 </template>
