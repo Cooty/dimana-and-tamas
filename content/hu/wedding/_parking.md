@@ -1,0 +1,3 @@
+A következő parkolóhelyek vannak a legközelebb a Burgaszi Hajóállomáshoz, ahonnan a komp indulni fog: <a href="https://maps.app.goo.gl/e8zex5bBRy9CWPMe7" target="_blank">Magazia parkoló</a>, <a href="https://maps.app.goo.gl/NYykeTB535yaSpm38" target="_blank">a Központi Pályaudvar parkolója</a>
+
+Felhívjuk figyelmeteket arra, hogy **szeptember 6-a** **nemzeti ünnep** Bulgáriában. Illetve, hogy **7.** és **8.** hétvégi napok, így a városban enyhébb parkolási szabályok érvényesek. A burgaszi parkolási irányelvekről további információkat <a target="_blank" href="https://www.transportburgas.bg/en/burgas-blue-zone-rules">ezen a weboldalon</a> találhatok.

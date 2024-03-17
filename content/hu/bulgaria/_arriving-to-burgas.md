@@ -1,0 +1,7 @@
+Külföldről érkező vendégeink számára a legegyszerűbb repülővel eljutni Burgaszba, a **Burgaszi Repülőtérre _(BOJ)_** több nemzetközi célállomásról is indulnak közvetlen járatok. A legolcsóbb légitársaságok, amelyek el tudnak hozni Burgaszba, a <a href="https://wizzair.com/en-gb/" target="_blank">WizzAir</a> és a <a href="https://ryanair.com/" target="_blank">Ryanair</a>. A Berlinből érkező vendégeknek a <a href="https://sundair.com/booking/#/" target="_blank">Sundairt</a> tudjuk ajánlani.
+
+A burgaszi repülőtérről a városközpont könnyen megközelíthető [taxival](#taxi) vagy tömegközlekedéssel - a **15-ös** busszal a repülőtér parkjának bejáratánál lévő körforgalomtól.
+
+Taxival körülbelül _15 perc_ eljutni a városközpontba, és körülbelül _15 €-ba (30 BGN)_ kerül. A buszjegy ára _kb. 2 BGN_, jegyet vagy a sofőrtől tudtok venni (csak készpénzzel), vagy elktronikusan a **BurgasBus alkalmazásból** (<a target="_blank" href="https://apps.apple.com/us/app/burgas/id1527094752">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.modeshift.burgas" target="_blank">Android</a>).
+
+A másik opció, hogy **a Várnai vagy a Szófia Nemzetközi repülőterére** érkeztek, majd vonattal vagy busszal utaztok tovább Burgaszba. A buszjáratokkal kapcsolatos információkért és előzetes jegyfoglalásért látogassatok el a <a target="_blank" href="https://union-ivkoni.com/en">Union Ivkoni weboldalára</a>, a vonatjáratokkal kapcsolatos információkért pedig a <a target="_blank" href="https://www.bdz.bg/en">BDZS (Bolgár Vasutak)</a> weboldalra.

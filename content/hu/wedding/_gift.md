@@ -1,1 +1,1 @@
-Аs your presence is the greatest gift of all, вe kindly request no physical gifts or flowers. However, if you wish to contribute to the start of our future family, a **monetary gift** would be greatly appreciated.
+A jelenlétetek a legnagyobb ajándék, ezért kérjük, hogy ne hozzatok tárgyi ajándékokat se virágot. Ha azonban hozzá kívánnak járulni leendő családunk alapításához, a **pénzbeli ajándékot** nagyra értékelnénk.
