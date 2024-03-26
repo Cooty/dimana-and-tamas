@@ -1,12 +1,11 @@
 <template>
   <app-navigation />
+  <lang-switch />
   <main id="content">
     <slot />
   </main>
   <app-footer />
 </template>
-
-<script setup></script>
 
 <style lang="scss">
 // Sticky footer
@@ -17,6 +16,7 @@ html,
 }
 
 #__nuxt {
+  position: relative;
   display: flex;
   flex-direction: column;
 }
