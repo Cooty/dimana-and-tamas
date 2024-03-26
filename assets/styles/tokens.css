@@ -37,5 +37,6 @@
   /* Large shadow */
   --shadow-float: 0 1rem 70px rgba(0, 0, 0, 0.2);
   --middle-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  --middle-active-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
   --small-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

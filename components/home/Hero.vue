@@ -22,15 +22,17 @@
       </div>
     </div>
     <div class="hero__bottom">
-      <ui-button :to="localePath('/registration')">{{
-        $t('cta.rsvp')
-      }}</ui-button>
+      <ui-button :to="formLink" target="_blank">
+        {{ $t('cta.rsvp') }}
+      </ui-button>
     </div>
   </header>
 </template>
 
 <script setup>
 const localePath = useLocalePath()
+const { locale } = useI18n()
+const formLink = useFormLink(locale.value)
 </script>
 
 <style lang="scss" scoped>
@@ -106,6 +108,7 @@ const localePath = useLocalePath()
       flex-direction: column;
       flex-wrap: wrap;
       align-items: center;
+      font-family: var(--header-font);
 
       > * {
         span {

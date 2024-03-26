@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="background">
     <ui-section id="venue">
       <ui-card>
         <wedding-intro />
@@ -41,3 +41,20 @@ useHead({
   title: t('nav.wedding'),
 })
 </script>
+
+<style lang="scss">
+.background {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-image: url('~/assets/images/figs-top-left-wedding.png'),
+    url('~/assets/images/figs-bottom-right-wedding.png');
+  background-position: 0 0, right 0;
+  background-size: auto 40svh, auto 50svh;
+  background-attachment: fixed;
+
+  @media screen and (min-width: 1024px) {
+    background-size: auto auto, auto auto;
+    background-attachment: scroll;
+  }
+}
+</style>

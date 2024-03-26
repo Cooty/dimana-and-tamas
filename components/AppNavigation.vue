@@ -20,9 +20,43 @@
       </div>
       <div class="navigation__scroller">
         <nav>
-          <nuxt-link :to="localePath('/registration')">{{
-            $t('nav.rsvp')
-          }}</nuxt-link>
+          <nuxt-link :to="localePath('/')" class="home-link">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              height="24"
+              viewBox="0 -960 960 960"
+              width="24"
+            >
+              <path
+                style="fill: currentColor"
+                d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z"
+              />
+            </svg>
+          </nuxt-link>
+          <template v-if="locale === 'bg'">
+            <nuxt-link
+              to="https://docs.google.com/forms/d/e/1FAIpQLSfb-jYlzkKuiRAxEyDT8L2ANqbM49wy_cv47VraYH0IrNbqSw/viewform?hl=bg"
+              target="_blank"
+            >
+              {{ $t('nav.rsvp') }}
+            </nuxt-link>
+          </template>
+          <template v-else-if="locale === 'hu'">
+            <nuxt-link
+              to="https://docs.google.com/forms/d/e/1FAIpQLSf8CBZgstvMmhzH-_CJTKbbzQjMn59XzG10snkBZjPKkfjW3A/viewform?hl=hu"
+              target="_blank"
+            >
+              {{ $t('nav.rsvp') }}
+            </nuxt-link>
+          </template>
+          <template v-else>
+            <nuxt-link
+              to="https://docs.google.com/forms/d/e/1FAIpQLScLdy8zXt0tps13JH4A3NvwgB2-BEW4fUdI24jS6CzMU4IMoQ/viewform?hl=en"
+              target="_blank"
+            >
+              {{ $t('nav.rsvp') }}
+            </nuxt-link>
+          </template>
           <nuxt-link :to="localePath('/the-wedding')">{{
             $t('nav.wedding')
           }}</nuxt-link>
@@ -121,6 +155,8 @@ function switchLanguage(e) {
     @media (min-width: 600px) {
       justify-content: center;
     }
+
+    mask-image: linear-gradient(90deg, black 90%, transparent 100%);
   }
 
   nav {

@@ -1,0 +1,55 @@
+.mobile-image-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 8vh;
+  padding-bottom: 6vh;
+  padding-right: var(--gutter);
+  padding-left: var(--gutter);
+
+  @media screen and (min-width: 1200px) {
+    position: static;
+  }
+
+  > img {
+    display: block;
+    width: calc(30vw - var(--gutter) * 2 - 20px);
+    max-width: 160px;
+    border: 8px solid var(--color-white);
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    @media screen and (min-width: 1440px) {
+      max-width: 300px;
+    }
+
+    &:nth-child(1) {
+      transform: rotate(-10deg);
+    }
+
+    &:nth-child(2) {
+      transform: rotate(10deg);
+    }
+
+    &:nth-child(3) {
+      transform: rotate(-20deg);
+    }
+
+    &:nth-child(4) {
+      transform: rotate(16deg);
+    }
+
+    @media screen and (min-width: 1200px) {
+      position: absolute;
+      z-index: -1;
+    }
+  }
+}
+
+.desktop-image-container {
+  max-width: var(--container-width);
+  margin-left: auto;
+  margin-right: auto;
+  @media screen and (min-width: 1200px) {
+    position: relative;
+  }
+}

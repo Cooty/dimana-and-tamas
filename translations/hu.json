@@ -16,7 +16,7 @@
   "gift.title": "Mit vigyek ajándékba?",
   "contact.title": "Kapcsolat",
   "contact.text": "Ha kérdésed van írj erre a címre:",
-  "arriving-burgas.title": "Hogy jutok el Burgaszba?",
+  "arriving-to-burgas.title": "Hogy jutok el Burgaszba?",
   "hotels.title": "Szálláslehetőségek",
   "taxi.title": "Taxizás Burgaszban",
   "arrival.title": "Mikor érkezek?",
@@ -34,5 +34,6 @@
   "programme.point-5": "{time} — Buli",
   "programme.point-6": "{time} — Első komp vissza",
   "programme.point-7": "{time} — Utolsó komp vissza",
-  "name-of-the-island": "Szent Anasztázia-sziget"
+  "name-of-the-island": "Szent Anasztázia-sziget",
+  "learn-more": "Tovább"
 }

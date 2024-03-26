@@ -15,4 +15,9 @@ a:focus {
 
 :root {
   scrollbar-width: thin;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
 }

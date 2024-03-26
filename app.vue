@@ -90,7 +90,7 @@ h4,
 h5,
 h6,
 .typo-header-font {
-  font-family: var(--header-font);
+  font-family: var(--body-font);
 }
 
 * {
