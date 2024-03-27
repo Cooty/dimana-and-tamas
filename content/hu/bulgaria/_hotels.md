@@ -8,7 +8,7 @@ Két szálláshelytől kaptunk kedvezményes ajánlatokat számotokra. A kedvezm
 
 ### DAS Marina Hotel
 
-\ - a magasabb árkategóriában fekszik, modern, kényelmes, jó helyen - közel a komp indulási pontjához és a belvároshoz.
+— a magasabb árkategóriában fekszik, modern, kényelmes, jó helyen - közel a komp indulási pontjához és a belvároshoz.
 Foglalhatok e-mailben, telefonon vagy <a href="https://marinaburgas.bg/en/" target="_blank">a szálloda honlapján keresztül</a>. Használjátok a **_DIMANA_ kódot** kedvezmény érvényesítéséhez.
 
 - Egyágyas szoba, városra néző kilátással: _BGN 139_.
@@ -28,7 +28,7 @@ Foglalhatok e-mailben, telefonon vagy <a href="https://marinaburgas.bg/en/" targ
 
 ### Hotel Bulair
 
-\- szerény, hangulatos családi szálloda a városközpontban, közel a kikötőhöz, ahonnan a komp indul.
+— szerény, hangulatos családi szálloda a városközpontban, közel a kikötőhöz, ahonnan a komp indul.
 
 - 10%-os kedvezményt biztosítanak az esküvőnk vendégeinek:
   - Egyágyas szoba: _80 BGN_.

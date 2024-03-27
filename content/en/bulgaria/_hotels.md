@@ -8,7 +8,7 @@ We have secured arrangements with two accommodations for our guests. To avail th
 
 ### DAS Marina Hotel
 
-\- on the higher end, modern and comfortable, with a convenient location - close to the ferry departure point and within walking distance to the center.
+— on the higher end, modern and comfortable, with a convenient location - close to the ferry departure point and within walking distance to the center.
 
 Make a reservation directly via e-mail, phone or <a href="https://marinaburgas.bg/en/" target="_blank">website of the hotel</a> using **code _DIMANA_ for preferential prices**:
 
@@ -29,7 +29,7 @@ Make a reservation directly via e-mail, phone or <a href="https://marinaburgas.b
 
 ### Hotel Bulair
 
-\- an unpretentious family hotel with a cozy atmosphere in the city center, a short distance from the port from which the ferry departs.
+— an unpretentious family hotel with a cozy atmosphere in the city center, a short distance from the port from which the ferry departs.
 
 - for our guests we have arranged a special discount of 10% from the regular prices:
   - Single room: _BGN 80_
