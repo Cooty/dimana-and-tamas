@@ -25,6 +25,9 @@
       <ui-button :to="formLink" target="_blank">
         {{ $t('cta.rsvp') }}
       </ui-button>
+      <p>
+        {{ $t('cta.rsvp.hint') }}
+      </p>
     </div>
   </header>
 </template>
@@ -68,6 +71,20 @@ const formLink = useFormLink(locale.value)
 
   &__bottom {
     padding-bottom: 6svh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+
+    > p {
+      text-align: center;
+      margin-top: 0.5em;
+      font-size: 0.8rem;
+      color: var(--color-grey-1);
+      background-color: rgba(250, 250, 250, 0.8);
+      padding: 4px;
+    }
   }
 
   &__card {
