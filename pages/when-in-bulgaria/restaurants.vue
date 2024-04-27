@@ -5,6 +5,7 @@
         <ui-section-header>{{ $t('restaurants.title') }}</ui-section-header>
         <bulgaria-restaurants />
       </ui-card>
+      <bulgaria-go-back />
     </ui-section>
     <div class="mobile-image-container">
       <img :src="one" loading="lazy" alt="" />
