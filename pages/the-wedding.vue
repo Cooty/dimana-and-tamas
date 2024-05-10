@@ -13,6 +13,12 @@
         <wedding-programme />
       </ui-card>
     </ui-section>
+    <ui-section id="seating">
+      <ui-card>
+        <ui-section-header>{{ $t('seating.title') }}</ui-section-header>
+        <wedding-seating />
+      </ui-card>
+    </ui-section>
     <ui-section id="dress-code">
       <ui-card>
         <ui-section-header>{{ $t('dress-code.title') }}</ui-section-header>
