@@ -61,6 +61,4 @@ Mivel szeptember eleje már nem számít főszezonnak, nem lesz nehéz jó aján
 
 Aki kalandvágyó, az **sátrazhat** is a szigeten! Akit érdekel kérdezzen a részletekről bátra. Ellenben sátrat és hálózsákot hoznotok kell.
 
-Ha **lakókocsival** érkezel és parkolóhelyet keresel, akkor <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Chengene Skele halászfalunál</a> találsz ilyet legközelebb. Ebben a cikkben van még pár lehetőség Burgaszban és környékén:
-
-<a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas</a>
+Ha **lakókocsival** érkezel és parkolóhelyet keresel, akkor <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Chengene Skele halászfalunál</a> találsz ilyet legközelebb. <a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">Ebben a cikkben</a> van még pár lehetőség Burgaszban és környékén:

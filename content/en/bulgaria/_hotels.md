@@ -61,6 +61,4 @@ As the beginning of September is not considered high season anymore, it should n
 
 If you are adventurous, ask us for **basic camping** option on the island! For that you need your own tent and sleeping bag.
 
-If you're arriving with a **camper** and looking for a place to set up camp, we know of a spot at <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Chengene Skele</a>. In this article, you can find a few more convenient places in and around Burgas:
-
-<a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas</a>
+If you're arriving with a **camper** and looking for a place to set up camp, we know of a spot at <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Chengene Skele</a>. <a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">In this article</a>, you can find a few more convenient places in and around Burgas:

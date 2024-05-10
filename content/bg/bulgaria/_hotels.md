@@ -28,7 +28,7 @@
 
 ### Хотел Булаир
 
-— непретенциозен семеен хотел с уютна обстановка в центъра на града, на кратко разстояние от пристанището, от което тръгва фериботът.
+— непретенциозен семеен хотел с уютна обстановка в центъра на града, на близко разстояние от пристанището, от което тръгва фериботът.
 
 - за нашите гости сме договорили специално намаление **от 10% от обичайните цени за стаи**:
   - Единична стая: _80 BGN_
@@ -46,7 +46,7 @@
 
 - <a href="https://www.bulgaria-hotel.com/" target="_blank">Хотел България</a>: Висок клас настаняване с много екстри.
 - <a href="https://granvia-bg.com/" target="_blank">Гранд Виа</a>: Хотел от среден клас, разположен директно срещу Морската градина.
-- <a href="https://burgas.aquahotels.com/" target="_blank">Хотел Аква</a>: Удобeн с местоположение, малко по-далеч от центъра.
+- <a href="https://burgas.aquahotels.com/" target="_blank">Хотел Аква</a>: С удобно местоположение, малко по-далеч от центъра.
 - <a href="https://hotelfors-bg.com/" target="_blank">Хотел Fors</a>: Много централен, със собствен паркинг (ограничен брой места) и включена закуска.
 - <a href="https://luxor-bs.com/" target="_blank">Хотел Луксор</a>: Среден клас: със собствен паркинг (ограничени места) и закуска срещу допълнително доплащане от _10 лв_.
 - <a href="https://www.hoteldoro.com/index.php/bg/" target="_blank">Хотел Доро</a>: Семеен хотел в процес на обновяване, отворен за резервации от май. Разполага със собствен паркинг.
@@ -56,10 +56,8 @@
 
 Тъй като началото на септември приливът на туисти е по-нисък, не би трябвало да е трудно да се намерят и добри оферти за цели апартаменти под наем в <a href="https://www.airbnb.com/s/Burgas/homes?query=Burgas" target="_blank">Airbnb</a> и <a href="https://www.booking.com/searchresults.html?ss=Burgas&ssne=Burgas&ssne_untouched=Burgas&efdco=1&label=gen173nr-1FCAEoggI46AdIM1gEaBeIAQGYATG4AQfIAQzYAQHoAQH4AQKIAgGoAgO4AqqO1q8GwAIB0gIkZTRjOTQ0OGYtM2VmMy00NGQ2LTllMDctNGMzN2JjNDkxNDE12AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=-832673&dest_type=city&group_adults=2&no_rooms=1&group_children=0">booking.com</a>.
 
-### За спане на открито
+### Непретенциозно или на открито
 
 Ако сте приключенски настроени, попитайте ни за възможност за къмпингуване на остров Анастасия! Накратко: там може да се опъне палатка, а в музеят има възможност за настаняване тип туристическа спалня. За тази опция ще ви е нужни собствени палaтка и спален чувал.
 
-Ако пристигате с кемпер и търсите място за паркиране, знаем такова на паркинга на туристическия комплекс <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Ченгене скеле</a> до Бургас. В тази статия можете да намерите още няколко удобни места за кемпер в Бургас и околностите му:
-
-<a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas</a>
+Ако пристигате с кемпер и търсите място за паркиране, знаем такова на паркинга на туристическия комплекс <a href="https://maps.app.goo.gl/VhDmrDqfjYhFnXL86" target="_blank">Ченгене скеле</a> до Бургас. В <a href="https://bnr.bg/en/post/101512040/four-places-to-park-you-campervan-in-burgas" target="_blank">тази статия</a> можете да намерите още няколко удобни места за кемпер в Бургас и околностите му:
