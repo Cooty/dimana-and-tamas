@@ -15,5 +15,15 @@
     font-size: 3.2rem;
     margin-bottom: 0.4em;
   }
+
+  &:deep(> a) {
+    color: var(--color-grey-0);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
 }
 </style>

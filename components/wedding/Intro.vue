@@ -1,8 +1,10 @@
 <template>
   <ui-pull-out-columns>
     <template #first>
-      <div>
-        <ui-section-header>{{ $t('section.venue') }}</ui-section-header>
+      <div id="venue">
+        <ui-section-header
+          ><a href="#venue">{{ $t('section.venue') }}</a></ui-section-header
+        >
         <ui-body-text
           ><content-doc :path="`${$i18n.locale}/wedding/_intro`" />
         </ui-body-text>
