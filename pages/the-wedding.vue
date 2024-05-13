@@ -9,31 +9,41 @@
     </ui-section>
     <ui-section id="program">
       <ui-card>
-        <ui-section-header>{{ $t('section.programme') }}</ui-section-header>
+        <ui-section-header>
+          <a href="#program">{{ $t('section.programme') }}</a>
+        </ui-section-header>
         <wedding-programme />
-      </ui-card>
-    </ui-section>
-    <ui-section id="seating">
-      <ui-card>
-        <ui-section-header>{{ $t('seating.title') }}</ui-section-header>
-        <wedding-seating />
       </ui-card>
     </ui-section>
     <ui-section id="dress-code">
       <ui-card>
-        <ui-section-header>{{ $t('dress-code.title') }}</ui-section-header>
+        <ui-section-header
+          ><a href="#dress-code">{{ $t('dress-code.title') }}</a>
+        </ui-section-header>
         <wedding-dress-code />
       </ui-card>
     </ui-section>
     <ui-section id="gift">
       <ui-card>
-        <ui-section-header>{{ $t('gift.title') }}</ui-section-header>
+        <ui-section-header
+          ><a href="#gift">{{ $t('gift.title') }}</a></ui-section-header
+        >
         <wedding-gifts />
+      </ui-card>
+    </ui-section>
+    <ui-section id="seating">
+      <ui-card>
+        <ui-section-header
+          ><a href="#seating">{{ $t('seating.title') }}</a></ui-section-header
+        >
+        <wedding-seating />
       </ui-card>
     </ui-section>
     <ui-section id="contact">
       <ui-card>
-        <ui-section-header>{{ $t('contact.title') }}</ui-section-header>
+        <ui-section-header
+          ><a href="#contact">{{ $t('contact.title') }}</a></ui-section-header
+        >
         <wedding-contact />
       </ui-card>
     </ui-section>
