@@ -36,7 +36,7 @@ Make a reservation directly via e-mail, phone or <a href="https://marinaburgas.b
   - Double room: _BGN 89_
   - Triple room: _BGN 116_
 - The price includes **breakfast**.
-- This special offer is valid until all reserved rooms are taken and for reservations made by _May 15th, 2024_.
+- This special offer is valid until all reserved rooms are taken and for reservations made by _June 15th, 2024_.
 - To make a reservation, please contact Hotel Bulair directly by phone, email or through <a href="http://hotelbulair.com/" target="_blank">their website</a> , but **not** through the platform of Booking! Just mention that you are coming for **"Dimana and Tamás's wedding on September 7th"**.
 - Guests have the opportunity to extend their stay at the same (reduced) prices, if rooms are available.
 - Please note that the hotel **does not have its own parking lot**, but you can use the private parking <a href="https://maps.app.goo.gl/e8zex5bBRy9CWPMe7" target="_blank">"Magazia 1"</a>, which is located near the hotel and costs [BGN 10 per day](#parking).

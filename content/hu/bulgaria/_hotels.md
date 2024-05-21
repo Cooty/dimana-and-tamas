@@ -35,7 +35,7 @@ Foglalhatok e-mailben, telefonon vagy <a href="https://marinaburgas.bg/en/" targ
   - Kétágyas szoba: _BGN 89_
   - Háromágyas szoba: _BGN 116_
 - Az árak tartalmazzák a **reggelit**.
-- Az akciós ajánlat az összes lefoglalt szoba elfoglalásáig és a _2024. május 15-ig_ tett foglalások esetén érvényes.
+- Az akciós ajánlat az összes lefoglalt szoba elfoglalásáig és a _2024. június 15-ig_ tett foglalások esetén érvényes.
 - A foglaláshoz kérjük, forduljatok közvetlenül a szállodához telefonon, e-mailben vagy a <a href="http://hotelbulair.com/" target="_blank">honlapjukon</a> keresztül, **ne** a Booking.com-on!<br/>
   Csak említsék meg, hogy **Dimana és Tamás szeptember 7-i esküvőjére** jönnétek.
 - A vendégeknek lehetőségük van meghosszabbítani tartózkodásukat ugyanazon a - _kedvezményes_ - áron, amennyiben van még szabad szoba.
