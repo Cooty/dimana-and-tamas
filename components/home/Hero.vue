@@ -25,9 +25,9 @@
       <ui-button :to="formLink" target="_blank">
         {{ $t('cta.rsvp') }}
       </ui-button>
-      <p>
+      <!-- <p>
         {{ $t('cta.rsvp.hint') }}
-      </p>
+      </p> -->
     </div>
   </header>
 </template>
